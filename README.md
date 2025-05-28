@@ -7,6 +7,21 @@ to quickly check outputs of stdout and stderr files. You only need
 to read them once. So you just repeat `cat` and `rm` commands on
 the same file. With `carm` it will take half the time.
 
+## Install
+
+```
+wget https://github.com/notTGY/carm/releases/download/v0.1.1/carm.deb
+```
+```
+sudo dpkg -i carm.deb
+```
+
+## Uninstall
+
+```
+sudo apt remove carm
+```
+
 ## Usage
 
 ```
