@@ -1,0 +1,8 @@
+Package: carm
+Version: 0.1
+Architecture: all
+Section: utils
+Priority: optional
+Homepage: http://github.com/nottgy/carm
+Maintainer: nottgy
+Description: cat + rm a file

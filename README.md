@@ -17,3 +17,8 @@ carm task.o001
 
 `carm --restore` to restore latest deleted file
 
+
+## Build
+
+1. `go build -o bin/carm`
+2. `dpkg-deb --build . carm.deb`

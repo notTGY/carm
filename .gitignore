@@ -1,2 +1,3 @@
 task.o001
-carm
+bin
+*.deb
